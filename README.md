@@ -16,8 +16,8 @@ It is your perfect sidekick when neighbours keep playing "Despacito" ad finitum 
 
 ## Usage
 
-- Open a terminal window and navigate to the directory containing the PartyPooper.py script.
-- Run the script by typing python3 PartyPooper.py and pressing Enter.
+- Open a terminal window and navigate to the directory containing the Party-Pooper.py script.
+- Run the script by typing python3 Party-Pooper.py and pressing Enter.
 - The script will display a menu with the following options:
 
 
